@@ -16,8 +16,8 @@ Write a compelling description about yourself, your experience, and your passion
 
 ![Project 1](project1-thumbnail.jpg)
 
-- **Description**: A brief overview of the project and its main features.
-- **Technologies**: List the technologies or frameworks used.
+- **Description**: It is a telegram management bot which can manage your groups and channels
+- **Technologies**: Based on ptb pyrogram telethon 
 - **Live Demo**: Link to the live demo (if available).
 - **GitHub Repository**: Link to the GitHub repository (if open-source).
 
