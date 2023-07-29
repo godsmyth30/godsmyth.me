@@ -1,0 +1,76 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4d4a4c;
+  color: #ffffff;
+  text-align: center;
+  padding: 1rem;
+}
+
+header h1 {
+  margin: 0;
+}
+
+header img {
+  max-width: 200px;
+  border-radius: 50%;
+  margin: 20px 0;
+}
+
+nav {
+  margin-top: 20px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h2 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+}
+
+section#portfolio {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Changed to 150px */
+  gap: 20px;
+}
+
+section#portfolio img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+section#contact p {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Add more CSS styles to customize the appearance of your website */
