@@ -12,7 +12,7 @@ Write a compelling description about yourself, your experience, and your passion
 
 ## Portfolio
 
-### Project 1 - Project Name
+### Project 1 - Obito Uchia
 
 ![Project 1](project1-thumbnail.jpg)
 
